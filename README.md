@@ -12,4 +12,4 @@ Abrir el archivo index.html en el navegador.
 Trabajar siempre en ramas y usar Pull Request.
 
 ## Autor
-Alex Quispe Pillaca
+Alex Quispe Pillaca peru a toda maquina
